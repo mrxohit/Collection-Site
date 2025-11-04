@@ -39,7 +39,7 @@ This project is built to help **shopkeepers and small business owners** track th
 
 ## 📸 Preview
 
-![Collection Dashboard Screenshot][(https://via.placeholder.com/1000x500?text=Collection+Dashboard+Preview](https://www.instagram.com/mohits.codes/p/DQoKyYcgUT_/))
+[(https://www.instagram.com/mohits.codes/p/DQoKyYcgUT_/)]
 
 
 ---
