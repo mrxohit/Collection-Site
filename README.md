@@ -1,16 +1,60 @@
-# React + Vite
+# 🧾 Collection Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React + TailwindCSS** web app designed for **shopkeepers** to manage daily sales, stock, and product records in a clean and functional dashboard interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+✅ **Add / Remove Products** — Easily add new items like *atta*, *oil*, *sugar*, etc.  
+✅ **Upload Product Images** — Attach product photos for easy identification.  
+✅ **Real-time Stock Updates** — Update quantity instantly with **Sell** or **Restock** buttons.  
+✅ **Dynamic Price Display** — Add or edit product prices as per your shop rates.  
+✅ **Fully Responsive UI** — Works perfectly on mobile, tablet, and desktop.  
+✅ **Modern Animations** — Smooth transitions and user-friendly layout.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is built to help **shopkeepers and small business owners** track their:
+- Daily stock and sales records  
+- Remaining inventory  
+- Product pricing with visual references  
+
+> Example use case: “Main ek dukandar hu, mujhe dekhna hai aaj kya kya bika, kya stock bacha hai, aur kis product ki photo kya hai — sab ek jagah!”
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech | Description |
+|------|--------------|
+| ⚛️ React | Frontend UI Framework |
+| 💨 TailwindCSS | For modern, responsive styling |
+| 🧩 Vite | Fast build tool and dev server |
+| 📦 Node + npm | Dependency management |
+
+---
+
+## 📸 Preview
+
+![Collection Dashboard Screenshot][(https://via.placeholder.com/1000x500?text=Collection+Dashboard+Preview](https://www.instagram.com/mohits.codes/p/DQoKyYcgUT_/))
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally 👇
+
+```bash
+# 1 Clone the repository
+git clone https://github.com/mrxohit/Collection-Site.git
+
+
+# 2 Install dependencies
+npm install
+
+# 3 Start the development server
+npm run dev
